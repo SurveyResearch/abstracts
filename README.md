@@ -1,4 +1,4 @@
 abstracts
 =========
 
-Abstracts for some planned papers
+Abstracts and notes for some planned papers.  Please do not quote.
